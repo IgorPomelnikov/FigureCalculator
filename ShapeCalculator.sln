@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeCalculator", "ShapeCalculator\ShapeCalculator.csproj", "{0A53CDCC-D9E7-4781-ABDD-66B9CE5A5973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeConsoleUi", "ShapeConsoleUi\ShapeConsoleUi.csproj", "{490E8B8F-399D-43E9-929C-6B3BB936A5D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangles", "Triangles\Triangles.csproj", "{8AA759F3-1B43-4885-90AA-97F369B38599}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circles", "Circles\Circles.csproj", "{899DC050-4E3D-4BCE-AC9B-E0AF249D77C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A53CDCC-D9E7-4781-ABDD-66B9CE5A5973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A53CDCC-D9E7-4781-ABDD-66B9CE5A5973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A53CDCC-D9E7-4781-ABDD-66B9CE5A5973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A53CDCC-D9E7-4781-ABDD-66B9CE5A5973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{490E8B8F-399D-43E9-929C-6B3BB936A5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490E8B8F-399D-43E9-929C-6B3BB936A5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490E8B8F-399D-43E9-929C-6B3BB936A5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490E8B8F-399D-43E9-929C-6B3BB936A5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA759F3-1B43-4885-90AA-97F369B38599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA759F3-1B43-4885-90AA-97F369B38599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA759F3-1B43-4885-90AA-97F369B38599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA759F3-1B43-4885-90AA-97F369B38599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899DC050-4E3D-4BCE-AC9B-E0AF249D77C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899DC050-4E3D-4BCE-AC9B-E0AF249D77C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899DC050-4E3D-4BCE-AC9B-E0AF249D77C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899DC050-4E3D-4BCE-AC9B-E0AF249D77C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
